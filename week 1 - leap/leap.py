@@ -1,5 +1,3 @@
-
-
 def leap_year(year):
     if year % 100 == 0 and year % 400 == 0:
         return True
@@ -7,4 +5,4 @@ def leap_year(year):
         return True
     else:
         return False
-print(leap_year(1997))
+    pass
