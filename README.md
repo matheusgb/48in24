@@ -6,4 +6,4 @@ Each week focuses on a new exercise, aiming to build programming skills incremen
 
 - Week 1 - [Leap](https://exercism.org/exercises/leap): `Python`, `Clojure` and `MIPS Assembly`.
 - Week 2 - [Reverse String](https://exercism.org/exercises/reverse-string): `JavaScript`, `Nim` and `C++`.
-- Week 3 - [Raindrops](https://exercism.org/exercises/raindrops): `Common Lips`, `R` and `Ruby`.
+- Week 3 - [Raindrops](https://exercism.org/exercises/raindrops): `Common Lisp`, `R` and `Ruby`.
